@@ -38,6 +38,12 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "IA First class": {
+        "description": "Introduction to Artificial Intelligence : couse suggested by Sqli for developpers employees",
+        "schedule": "Tuesdays and Thursdays, 1:00 PM - 2:30 PM",
+        "max_participants": 15,
+        "participants": ["alex@mergington.edu", "lily@mergington.edu"]
     }
 }
 
